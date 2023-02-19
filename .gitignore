@@ -147,6 +147,6 @@ ipch/
 # Own exclusion
 *.gitattributes
 *.clang-format
-*.clang.tidy
+*.clang-tidy
 *.editorconfig
 *.gitignore
