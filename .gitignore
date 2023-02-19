@@ -143,3 +143,10 @@ ipch/
 
 # Visual Studio Trace Files
 *.e2e
+
+# Own exclusion
+*.gitattributes
+*.clang-format
+*.clang.tidy
+*.editorconfig
+*.gitignore
